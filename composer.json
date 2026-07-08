@@ -1,10 +1,15 @@
 {
     "name": "artisan-build/crate-contracts",
     "description": "The thin, versioned package contract shared between crate-client and crate-server.",
-    "keywords": ["crate", "composer", "laravel", "contracts", "registry"],
+    "keywords": [
+        "crate",
+        "composer",
+        "laravel",
+        "contracts",
+        "registry"
+    ],
     "license": "MIT",
     "type": "library",
-    "version": "1.0.0",
     "require": {
         "php": "^8.3"
     },
